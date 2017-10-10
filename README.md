@@ -1,4 +1,4 @@
-# :warning: IMPORTANT
+th# :warning: IMPORTANT
 **Download the Files from this page to get the Gulp process files and other important data. This repository only contains the theme itself.**
 
 # Devscores
@@ -22,9 +22,9 @@ Posts and pages can have Featured Images.
 3. Page sidebar
 
 ### Licenses and External Assets
-Devscores is distributed under the terms of the GNU GPL v2
+Devscores is distributed under the terms of the MIT License
 
-Devscores' code base started out as _s (http://underscores.me) as it were on November 28, 2016.
+Devscores' code base started out as _s (http://underscores.me) as it were on October 9th, 2017.
 
 ### Namesake
 Dev is named in homeage to all the Web developers that came before me.
