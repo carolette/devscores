@@ -22,7 +22,7 @@ Posts and pages can have Featured Images.
 3. Page sidebar
 
 ### Licenses and External Assets
-Devscores is distributed under the terms of the MIT License
+Devscores is distributed under the terms of the GPL v3.
 
 Devscores' code base started out as _s (http://underscores.me) as it were on October 9th, 2017.
 
